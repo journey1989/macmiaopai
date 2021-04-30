@@ -1,0 +1,7 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:493 ========点击消息========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:495 ========点击登录注册========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:194 ========点击qq授权登录=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:196 ========完成qq授权登录========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:200 =======点击跳过=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:524 ========杀掉app进程=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:527 ========启动app=======

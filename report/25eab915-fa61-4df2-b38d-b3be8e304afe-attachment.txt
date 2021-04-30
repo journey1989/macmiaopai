@@ -1,0 +1,17 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:24 ========star app=========
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:32 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:38 Message: An element could not be located on the page using the given search parameters.
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:45 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:52 Message:
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:71 =======点击微信icon=======
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:80 Message: 
+
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:84 =======点击设置=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:87 =======点击青少年=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:89 =======点击立即开启=======
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:59 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:61 ======get 青少年模式 snapshot=====
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:93 =======点击返回=======

@@ -1,0 +1,51 @@
+2021-04-23 17:13:51,717 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:310] - INFO: ========点击我的========
+2021-04-23 17:13:51,731 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:323] - INFO: ========点击我的========
+2021-04-23 17:13:51,743 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:335] - INFO: ========点击关注========
+2021-04-23 17:13:51,755 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:347] - INFO: ========点顶部关注========
+2021-04-23 17:57:38,203 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:310] - INFO: ========点击我的========
+2021-04-23 17:57:38,216 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:323] - INFO: ========点击我的========
+2021-04-23 17:57:38,229 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:335] - INFO: ========点击关注========
+2021-04-23 17:57:38,242 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:347] - INFO: ========点顶部关注========
+2021-04-23 18:01:00,968 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:01:11,008 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:01:21,050 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:01:31,079 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:01:31,096 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:310] - INFO: ========点击我的========
+2021-04-23 18:01:41,113 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:01:41,133 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:323] - INFO: ========点击我的========
+2021-04-23 18:01:51,176 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:01:51,194 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:335] - INFO: ========点击关注========
+2021-04-23 18:02:01,205 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:02:01,220 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:347] - INFO: ========点顶部关注========
+2021-04-23 18:02:11,233 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:04:51,368 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:05:01,404 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:05:11,442 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:08:34,159 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:13:55,454 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:233] - INFO: ========star app=========
+2021-04-23 18:14:09,180 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:241] - ERROR: Message: 
+
+2021-04-23 18:14:11,866 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:247] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-23 18:14:21,947 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:254] - ERROR: Message: 
+
+2021-04-23 18:15:04,675 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:262] - ERROR: Message: 
+
+2021-04-23 18:15:21,122 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:45] - INFO: =========执行一键登录操作=========
+2021-04-23 18:15:25,046 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:7] - DEBUG: =========截图操作=========
+2021-04-23 18:15:25,047 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:9] - DEBUG: ======get 一键登录 snapshot=====
+2021-04-23 18:15:36,260 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:15:39,347 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:424] - INFO: ========启动app=======
+2021-04-23 18:16:08,441 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:89] - INFO: =========执行无sim卡验证码登录操作=========
+2021-04-23 18:16:19,496 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:16:22,528 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:424] - INFO: ========启动app=======
+2021-04-23 18:17:08,523 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:102] - INFO: =======点击微信icon=======
+2021-04-23 18:17:18,941 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:17:22,044 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:424] - INFO: ========启动app=======
+2021-04-23 18:18:19,364 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:18:22,432 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:424] - INFO: ========启动app=======
+2021-04-23 18:19:08,229 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:310] - INFO: ========点击我的========
+2021-04-23 18:19:09,394 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:314] - INFO: ========点击登录注册========
+2021-04-23 18:19:10,001 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:316] - INFO: ========qq登录========
+2021-04-23 18:19:59,807 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:421] - INFO: ========杀掉app进程=======
+2021-04-23 18:20:02,890 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:424] - INFO: ========启动app=======

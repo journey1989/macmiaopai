@@ -1,0 +1,4 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:101 =======点击账号管理=======
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:59 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:61 ======get 账号管理 snapshot=====
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:105 =======点击返回=======

@@ -1,0 +1,14 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:326 ========star app=========
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:334 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:340 Message: An element could not be located on the page using the given search parameters.
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:347 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:355 Message:
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:481 ========点击搜索========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:483 ========输入搜索内容========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:485 ========点击搜索========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:487 ========点击关注========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:557 ========杀掉app进程=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:560 ========启动app=======

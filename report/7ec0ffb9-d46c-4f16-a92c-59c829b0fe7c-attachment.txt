@@ -1,0 +1,9 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:446 ========点击关注========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:160 =======点击微信icon=======
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:194 Message: 
+
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:452 ========再次点击关注用户========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:12 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:14 ======get 精选关注调登录 snapshot=====
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:554 ========杀掉app进程=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:557 ========启动app=======

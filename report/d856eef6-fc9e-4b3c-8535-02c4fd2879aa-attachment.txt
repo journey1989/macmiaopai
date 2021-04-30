@@ -1,0 +1,12 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:36 ========star app=========
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:44 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:50 Message: An element could not be located on the page using the given search parameters.
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:57 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:65 Message:
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:209 =======点击搜索=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:213 =======输入搜索记录=======
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:13 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_search.py:15 ======get 查看全部搜索记录 snapshot=====

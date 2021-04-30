@@ -1,0 +1,6 @@
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:49 Message: 
+
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:12 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:14 ======get 微博登录 snapshot=====
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:524 ========杀掉app进程=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:527 ========启动app=======

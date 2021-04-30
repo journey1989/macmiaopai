@@ -1,0 +1,6 @@
+2021-04-26 16:59:18,534 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:49] - ERROR: Message: 
+
+2021-04-26 16:59:19,537 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:12] - DEBUG: =========截图操作=========
+2021-04-26 16:59:19,538 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:14] - DEBUG: ======get 微博登录 snapshot=====
+2021-04-26 16:59:32,457 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:524] - INFO: ========杀掉app进程=======
+2021-04-26 16:59:36,736 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:527] - INFO: ========启动app=======

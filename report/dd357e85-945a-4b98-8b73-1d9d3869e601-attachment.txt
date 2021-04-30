@@ -1,0 +1,3 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:131 ========点击粉丝关注=======
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:8 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:10 ======get 消息粉丝关注 snapshot=====

@@ -1,0 +1,18 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:326 ========star app=========
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:334 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:340 Message: An element could not be located on the page using the given search parameters.
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:347 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:355 Message:
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:417 ========点击我的========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:421 ========点击登录注册========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:423 ========qq登录========
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:219 ========点击qq授权登录=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:221 ========完成qq授权登录========
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:233 'WebDriver' object has no attribute 'driver'
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:12 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:14 ======get qq登录 snapshot=====
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:557 ========杀掉app进程=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_login.py:560 ========启动app=======

@@ -1,0 +1,6 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:112 =======点击黑名单=======
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:59 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:61 ======get 黑名单 snapshot=====
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:119 Message: An element could not be located on the page using the given search parameters.
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:123 Message: An element could not be located on the page using the given search parameters.

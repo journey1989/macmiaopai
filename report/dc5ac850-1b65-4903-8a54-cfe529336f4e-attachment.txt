@@ -1,0 +1,9 @@
+2021-04-26 16:50:18,777 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:448] - INFO: ========点击搜索========
+2021-04-26 16:50:32,524 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:450] - INFO: ========输入搜索内容========
+2021-04-26 16:50:34,872 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:452] - INFO: ========点击搜索========
+2021-04-26 16:50:36,112 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:454] - INFO: ========点击关注========
+2021-04-26 16:50:41,031 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:194] - INFO: ========点击qq授权登录=======
+2021-04-26 16:51:01,505 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:196] - INFO: ========完成qq授权登录========
+2021-04-26 16:51:16,471 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:200] - INFO: =======点击跳过=======
+2021-04-26 16:51:37,126 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:524] - INFO: ========杀掉app进程=======
+2021-04-26 16:51:40,174 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:527] - INFO: ========启动app=======

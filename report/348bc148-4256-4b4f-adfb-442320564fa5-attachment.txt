@@ -1,0 +1,15 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:51 ========star app=========
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:58 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:64 Message: An element could not be located on the page using the given search parameters.
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:71 Message: 
+
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:79 Message:
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:111 ========点击收到的赞=======
+ERROR    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:116 Message: An element could not be located on the page using the given search parameters.
+
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:8 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:10 ======get 消息收到的赞 snapshot=====
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:123 ========点击返回=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_message.py:150 ========最后退出登录============

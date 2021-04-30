@@ -1,0 +1,4 @@
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:208 =======清除缓存=======
+INFO     /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:210 =======点击确定=======
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:59 =========截图操作=========
+DEBUG    /Users/yixia/PycharmProjects/iosmiaopai/logs/log.txt:IMP_setting.py:61 ======get 清除缓存 snapshot=====

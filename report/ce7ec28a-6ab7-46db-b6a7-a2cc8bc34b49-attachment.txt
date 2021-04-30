@@ -1,0 +1,5 @@
+2021-04-26 16:56:42,047 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:107] - INFO: =========执行无sim卡验证码登录操作=========
+2021-04-26 16:56:48,264 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:12] - DEBUG: =========截图操作=========
+2021-04-26 16:56:48,265 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:14] - DEBUG: ======get 验证码登录 snapshot=====
+2021-04-26 16:56:59,452 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:524] - INFO: ========杀掉app进程=======
+2021-04-26 16:57:02,493 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:527] - INFO: ========启动app=======

@@ -1,0 +1,13 @@
+platformName: ios
+platformVersion:  '13.7'
+udid: 00008020-00022D683688002E
+deviceName: iPhone XS Max
+automationName: XCUiTest
+bundleId: com.yixia.iphone
+xcodeOrgId: 92TS993A24
+xcodeSigningId: iPhone Developer
+unicodeKeyboard:  True
+resetKeyboard:  True
+WaitForAppScript: True
+ip: 127.0.0.1
+port: 4723

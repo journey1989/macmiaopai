@@ -1,0 +1,17 @@
+2021-04-26 16:47:27,152 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:293] - INFO: ========star app=========
+2021-04-26 16:47:42,165 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:301] - ERROR: Message: 
+
+2021-04-26 16:47:45,755 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:307] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-26 16:47:59,573 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:314] - ERROR: Message: 
+
+2021-04-26 16:48:43,874 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:322] - ERROR: Message: 
+
+2021-04-26 16:48:43,879 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:384] - INFO: ========点击我的========
+2021-04-26 16:49:06,282 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:388] - INFO: ========点击登录注册========
+2021-04-26 16:49:06,813 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:390] - INFO: ========qq登录========
+2021-04-26 16:49:10,500 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:194] - INFO: ========点击qq授权登录=======
+2021-04-26 16:49:33,068 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:196] - INFO: ========完成qq授权登录========
+2021-04-26 16:49:47,312 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:200] - INFO: =======点击跳过=======
+2021-04-26 16:50:08,064 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:524] - INFO: ========杀掉app进程=======
+2021-04-26 16:50:11,115 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:527] - INFO: ========启动app=======

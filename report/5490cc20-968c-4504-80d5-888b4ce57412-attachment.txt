@@ -1,0 +1,3 @@
+2021-04-26 17:00:24,305 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:416] - INFO: ========点击关注========
+2021-04-26 17:01:15,187 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:524] - INFO: ========杀掉app进程=======
+2021-04-26 17:01:19,112 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:527] - INFO: ========启动app=======

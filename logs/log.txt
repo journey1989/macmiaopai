@@ -1,0 +1,486 @@
+2021-04-29 17:58:50,448 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:14] - INFO: ========点击消息=======
+2021-04-29 17:58:50,517 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:111] - INFO: ========点击收到的赞=======
+2021-04-29 17:58:50,528 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:122] - INFO: ========点击粉丝关注=======
+2021-04-29 17:58:50,537 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:132] - INFO: ========点击评论回复=======
+2021-04-29 18:01:30,502 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:51] - INFO: ========star app=========
+2021-04-29 18:01:45,022 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:58] - ERROR: Message: 
+
+2021-04-29 18:01:47,769 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:64] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:01:58,146 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:71] - ERROR: Message: 
+
+2021-04-29 18:02:41,911 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:79] - ERROR: Message: 
+
+2021-04-29 18:02:41,915 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:14] - INFO: ========点击消息=======
+2021-04-29 18:02:58,186 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:16] - INFO: ========点击登录=======
+2021-04-29 18:02:58,386 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:111] - INFO: ========点击收到的赞=======
+2021-04-29 18:02:58,555 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:122] - INFO: ========点击粉丝关注=======
+2021-04-29 18:02:58,726 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:132] - INFO: ========点击评论回复=======
+2021-04-29 18:04:54,252 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:51] - INFO: ========star app=========
+2021-04-29 18:05:05,491 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:58] - ERROR: Message: 
+
+2021-04-29 18:05:08,226 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:64] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:05:14,754 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:71] - ERROR: Message: 
+
+2021-04-29 18:05:21,857 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:79] - ERROR: Message: 
+
+2021-04-29 18:05:21,863 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:14] - INFO: ========点击消息=======
+2021-04-29 18:05:35,103 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:16] - INFO: ========点击登录=======
+2021-04-29 18:05:36,186 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:20] - INFO: =======点击微信icon=======
+2021-04-29 18:06:07,856 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:31] - ERROR: Message: 
+
+2021-04-29 18:06:07,858 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:91] - INFO: ========点击系统通知=======
+2021-04-29 18:06:08,632 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:95] - INFO: ========点击通知设置=======
+2021-04-29 18:06:09,543 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:97] - INFO: ========打开开关=======
+2021-04-29 18:06:11,107 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:06:11,107 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息系统通知 snapshot=====
+2021-04-29 18:06:11,225 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:101] - INFO: ========关闭开关=======
+2021-04-29 18:06:11,920 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:103] - INFO: ========点击返回=======
+2021-04-29 18:06:13,389 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:111] - INFO: ========点击收到的赞=======
+2021-04-29 18:06:14,805 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:06:14,805 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息收到的赞 snapshot=====
+2021-04-29 18:06:14,924 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:115] - INFO: ========点击返回=======
+2021-04-29 18:06:15,428 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:122] - INFO: ========点击粉丝关注=======
+2021-04-29 18:06:16,873 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:06:16,873 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息粉丝关注 snapshot=====
+2021-04-29 18:06:17,422 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:132] - INFO: ========点击评论回复=======
+2021-04-29 18:06:18,874 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:06:18,874 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息评论回复 snapshot=====
+2021-04-29 18:06:19,502 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:142] - INFO: ========最后退出登录============
+2021-04-29 18:23:03,369 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:51] - INFO: ========star app=========
+2021-04-29 18:23:14,900 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:58] - ERROR: Message: 
+
+2021-04-29 18:23:17,625 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:64] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:23:24,129 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:71] - ERROR: Message: 
+
+2021-04-29 18:23:29,435 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:79] - ERROR: Message: 
+
+2021-04-29 18:23:29,439 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:111] - INFO: ========点击收到的赞=======
+2021-04-29 18:23:30,462 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:116] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:23:30,964 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:23:30,964 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息收到的赞 snapshot=====
+2021-04-29 18:23:31,089 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:123] - INFO: ========点击返回=======
+2021-04-29 18:23:31,637 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:150] - INFO: ========最后退出登录============
+2021-04-29 18:27:14,351 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:51] - INFO: ========star app=========
+2021-04-29 18:27:22,473 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:58] - ERROR: Message: 
+
+2021-04-29 18:27:24,985 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:64] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:27:31,429 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:71] - ERROR: Message: 
+
+2021-04-29 18:27:38,292 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:79] - ERROR: Message: 
+
+2021-04-29 18:27:38,294 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:111] - INFO: ========点击收到的赞=======
+2021-04-29 18:27:41,523 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:151] - INFO: ========最后退出登录============
+2021-04-29 18:28:02,508 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:51] - INFO: ========star app=========
+2021-04-29 18:28:11,717 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:58] - ERROR: Message: 
+
+2021-04-29 18:28:14,366 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:64] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:28:20,807 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:71] - ERROR: Message: 
+
+2021-04-29 18:28:27,679 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:79] - ERROR: Message: 
+
+2021-04-29 18:28:27,685 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:14] - INFO: ========点击消息=======
+2021-04-29 18:28:40,921 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:16] - INFO: ========点击登录=======
+2021-04-29 18:28:42,600 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:20] - INFO: =======点击微信icon=======
+2021-04-29 18:29:13,500 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:31] - ERROR: Message: 
+
+2021-04-29 18:29:13,502 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:91] - INFO: ========点击系统通知=======
+2021-04-29 18:29:14,247 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:95] - INFO: ========点击通知设置=======
+2021-04-29 18:29:15,126 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:97] - INFO: ========打开开关=======
+2021-04-29 18:29:16,670 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:29:16,671 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息系统通知 snapshot=====
+2021-04-29 18:29:16,788 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:101] - INFO: ========关闭开关=======
+2021-04-29 18:29:17,489 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:103] - INFO: ========点击返回=======
+2021-04-29 18:29:18,831 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:111] - INFO: ========点击收到的赞=======
+2021-04-29 18:29:20,058 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:116] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:29:20,058 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:117] - INFO: ========没有视频==========
+2021-04-29 18:29:20,559 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:29:20,559 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息收到的赞 snapshot=====
+2021-04-29 18:29:20,698 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:124] - INFO: ========点击返回=======
+2021-04-29 18:29:21,413 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:131] - INFO: ========点击粉丝关注=======
+2021-04-29 18:29:22,850 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:29:22,850 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息粉丝关注 snapshot=====
+2021-04-29 18:29:23,574 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:141] - INFO: ========点击评论回复=======
+2021-04-29 18:29:25,020 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:8] - DEBUG: =========截图操作=========
+2021-04-29 18:29:25,021 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:10] - DEBUG: ======get 消息评论回复 snapshot=====
+2021-04-29 18:29:25,792 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:151] - INFO: ========最后退出登录============
+2021-04-29 18:41:40,124 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:60] - INFO: ========star app=========
+2021-04-29 18:41:49,574 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:67] - ERROR: Message: 
+
+2021-04-29 18:41:49,730 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:73] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:41:54,809 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:80] - ERROR: Message: 
+
+2021-04-29 18:42:01,966 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:88] - ERROR: Message: 
+
+2021-04-29 18:42:01,974 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:23] - INFO: ========点击消息=======
+2021-04-29 18:42:14,498 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:25] - INFO: ========点击登录=======
+2021-04-29 18:42:15,700 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:29] - INFO: =======点击微信icon=======
+2021-04-29 18:42:47,144 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:40] - ERROR: Message: 
+
+2021-04-29 18:42:47,144 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:100] - INFO: ========点击系统通知=======
+2021-04-29 18:42:47,941 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:104] - INFO: ========点击通知设置=======
+2021-04-29 18:42:48,818 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:106] - INFO: ========打开开关=======
+2021-04-29 18:42:50,373 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:17] - DEBUG: =========截图操作=========
+2021-04-29 18:42:50,374 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:19] - DEBUG: ======get 消息系统通知 snapshot=====
+2021-04-29 18:42:50,494 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:110] - INFO: ========关闭开关=======
+2021-04-29 18:42:51,177 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:112] - INFO: ========点击返回=======
+2021-04-29 18:42:52,648 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:120] - INFO: ========点击收到的赞=======
+2021-04-29 18:42:55,535 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:17] - DEBUG: =========截图操作=========
+2021-04-29 18:42:55,535 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:19] - DEBUG: ======get 消息收到的赞 snapshot=====
+2021-04-29 18:42:55,678 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:137] - INFO: ========点击返回=======
+2021-04-29 18:42:56,356 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:144] - INFO: ========点击粉丝关注=======
+2021-04-29 18:42:57,817 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:17] - DEBUG: =========截图操作=========
+2021-04-29 18:42:57,817 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:19] - DEBUG: ======get 消息粉丝关注 snapshot=====
+2021-04-29 18:42:58,597 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:154] - INFO: ========点击评论回复=======
+2021-04-29 18:43:00,025 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:17] - DEBUG: =========截图操作=========
+2021-04-29 18:43:00,026 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:19] - DEBUG: ======get 消息评论回复 snapshot=====
+2021-04-29 18:43:00,678 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:164] - INFO: ========最后退出登录============
+2021-04-29 18:44:27,880 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:61] - INFO: ========star app=========
+2021-04-29 18:44:37,983 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:68] - ERROR: Message: 
+
+2021-04-29 18:44:40,718 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:74] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-29 18:44:47,268 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:81] - ERROR: Message: 
+
+2021-04-29 18:44:54,625 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:89] - ERROR: Message: 
+
+2021-04-29 18:44:54,629 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:24] - INFO: ========点击消息=======
+2021-04-29 18:45:08,019 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:26] - INFO: ========点击登录=======
+2021-04-29 18:45:08,936 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:30] - INFO: =======点击微信icon=======
+2021-04-29 18:45:40,147 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:41] - ERROR: Message: 
+
+2021-04-29 18:45:40,147 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:101] - INFO: ========点击系统通知=======
+2021-04-29 18:45:40,937 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:105] - INFO: ========点击通知设置=======
+2021-04-29 18:45:41,893 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:107] - INFO: ========打开开关=======
+2021-04-29 18:45:43,322 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:18] - DEBUG: =========截图操作=========
+2021-04-29 18:45:43,323 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:20] - DEBUG: ======get 消息系统通知 snapshot=====
+2021-04-29 18:45:43,435 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:111] - INFO: ========关闭开关=======
+2021-04-29 18:45:44,134 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:113] - INFO: ========点击返回=======
+2021-04-29 18:45:45,648 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:121] - INFO: ========点击收到的赞=======
+2021-04-29 18:45:48,510 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:18] - DEBUG: =========截图操作=========
+2021-04-29 18:45:48,510 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:20] - DEBUG: ======get 消息收到的赞 snapshot=====
+2021-04-29 18:45:48,649 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:138] - INFO: ========点击返回=======
+2021-04-29 18:45:49,250 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:145] - INFO: ========点击粉丝关注=======
+2021-04-29 18:45:50,703 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:18] - DEBUG: =========截图操作=========
+2021-04-29 18:45:50,704 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:20] - DEBUG: ======get 消息粉丝关注 snapshot=====
+2021-04-29 18:45:51,507 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:155] - INFO: ========点击评论回复=======
+2021-04-29 18:45:52,943 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:18] - DEBUG: =========截图操作=========
+2021-04-29 18:45:52,943 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:20] - DEBUG: ======get 消息评论回复 snapshot=====
+2021-04-29 18:45:53,710 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_message.py[line:165] - INFO: ========最后退出登录============
+2021-04-30 09:45:17,157 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:45:37,799 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:45:40,424 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:45:46,918 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:45:53,751 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:45:53,759 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:73] - INFO: =======点击搜索=======
+2021-04-30 09:46:08,298 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:77] - INFO: =======输入搜索内容=======
+2021-04-30 09:46:12,548 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:46:12,548 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 关键字查看搜索 snapshot=====
+2021-04-30 09:46:13,442 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:46:24,682 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:46:27,333 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:46:33,838 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:46:40,694 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:46:40,696 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:87] - INFO: =======点击搜索=======
+2021-04-30 09:46:55,273 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:92] - INFO: =======输入搜索纯英文=======
+2021-04-30 09:47:01,221 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:47:01,221 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索纯英文 snapshot=====
+2021-04-30 09:47:01,904 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:47:14,665 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:47:17,172 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:47:23,648 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:47:30,519 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:47:30,521 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:103] - INFO: =======点击搜索=======
+2021-04-30 09:47:45,234 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:107] - INFO: =======输入搜索纯数字=======
+2021-04-30 09:47:51,292 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:47:51,293 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索纯数字 snapshot=====
+2021-04-30 09:47:52,018 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:48:04,229 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:48:06,765 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:48:13,259 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:48:20,093 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:48:20,095 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:118] - INFO: =======点击搜索=======
+2021-04-30 09:48:34,830 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:122] - INFO: =======输入搜纯中文=======
+2021-04-30 09:48:41,480 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:48:41,481 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索纯中文 snapshot=====
+2021-04-30 09:48:42,212 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:48:54,558 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:48:57,237 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:49:03,740 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:49:10,615 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:49:10,617 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:133] - INFO: =======点击搜索=======
+2021-04-30 09:49:25,600 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:137] - INFO: =======输入搜索数字字母下划线=======
+2021-04-30 09:49:31,524 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:49:31,524 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索数字字母下划线组合 snapshot=====
+2021-04-30 09:49:32,274 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:49:44,887 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:49:47,639 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:49:54,379 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:50:01,498 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:50:01,502 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:148] - INFO: =======点击搜索=======
+2021-04-30 09:50:16,818 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:152] - INFO: =======输入搜索网址=======
+2021-04-30 09:50:21,354 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:50:21,355 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索网址 snapshot=====
+2021-04-30 09:50:22,659 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:50:34,338 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:50:37,146 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:50:44,279 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:50:51,421 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:50:51,423 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:162] - INFO: =======点击搜索=======
+2021-04-30 09:51:06,855 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:166] - INFO: =======输入搜索表情包=======
+2021-04-30 09:51:12,510 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:51:12,511 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索表情包 snapshot=====
+2021-04-30 09:51:13,380 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:51:25,191 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:51:27,947 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:51:34,712 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:51:41,807 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:51:41,807 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:177] - INFO: =======点击搜索=======
+2021-04-30 09:51:57,225 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:181] - INFO: =======输入搜索特殊字符=======
+2021-04-30 09:52:03,728 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:52:03,728 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索特殊字符 snapshot=====
+2021-04-30 09:52:04,490 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:52:16,120 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:52:18,949 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:52:25,713 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:52:32,802 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:52:32,804 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:193] - INFO: =======点击搜索=======
+2021-04-30 09:52:48,137 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:197] - INFO: =======输入搜索随机数字+字母=======
+2021-04-30 09:52:54,352 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:52:54,352 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索随机数字+字母 snapshot=====
+2021-04-30 09:52:55,134 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:53:07,111 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:53:09,822 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:53:16,584 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:53:23,680 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:53:23,683 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:209] - INFO: =======点击搜索=======
+2021-04-30 09:53:39,078 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:213] - INFO: =======输入搜索记录=======
+2021-04-30 09:53:44,520 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:53:44,521 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 查看全部搜索记录 snapshot=====
+2021-04-30 09:53:45,375 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:53:57,206 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:54:00,034 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:54:06,771 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:54:13,884 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:54:13,885 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:224] - INFO: =======点击搜索=======
+2021-04-30 09:54:29,271 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:228] - INFO: =======点击键盘完成=======
+2021-04-30 09:54:33,838 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:230] - INFO: =======点击全部搜索记录=======
+2021-04-30 09:54:34,345 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:232] - INFO: =======点击清除全部搜索记录=======
+2021-04-30 09:54:35,038 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:234] - INFO: =======点击确认=======
+2021-04-30 09:54:36,739 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:54:36,740 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 清除全部搜索记录 snapshot=====
+2021-04-30 09:54:37,414 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:54:49,363 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:54:52,182 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:54:58,958 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:55:06,051 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:55:06,052 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:244] - INFO: =======点击搜索=======
+2021-04-30 09:55:21,401 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:248] - INFO: =======输入搜索电影=======
+2021-04-30 09:55:25,306 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:250] - INFO: =======点击搜索=======
+2021-04-30 09:55:26,515 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:252] - INFO: =======点击视频=======
+2021-04-30 09:55:27,401 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:55:27,401 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索视频tab切换 snapshot=====
+2021-04-30 09:55:28,357 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:55:40,120 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:55:42,829 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:55:49,536 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:55:56,610 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:55:56,610 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:261] - INFO: =======点击搜索=======
+2021-04-30 09:56:11,819 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:265] - INFO: =======输入搜索内容=======
+2021-04-30 09:56:15,711 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:267] - INFO: =======点击搜索=======
+2021-04-30 09:56:16,912 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:269] - INFO: =======点击用户=======
+2021-04-30 09:56:18,119 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:56:18,119 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索用户tab切换 snapshot=====
+2021-04-30 09:56:19,167 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 09:56:30,986 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 09:56:33,789 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 09:56:40,559 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 09:56:47,920 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 09:56:47,921 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:279] - INFO: =======点击搜索=======
+2021-04-30 09:57:03,379 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:283] - INFO: =======输入搜索内容=======
+2021-04-30 09:57:07,303 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:285] - INFO: =======点击搜索=======
+2021-04-30 09:57:10,064 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:57:10,065 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索查看更多1用户 snapshot=====
+2021-04-30 09:57:10,273 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:292] - INFO: =======点击综合=======
+2021-04-30 09:57:12,572 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 09:57:12,573 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索查看更多2视频 snapshot=====
+2021-04-30 10:35:38,571 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:36] - INFO: ========star app=========
+2021-04-30 10:35:50,370 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:44] - ERROR: Message: 
+
+2021-04-30 10:35:53,006 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:50] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 10:35:59,434 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:57] - ERROR: Message: 
+
+2021-04-30 10:36:06,243 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:65] - ERROR: Message: 
+
+2021-04-30 10:36:06,253 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:279] - INFO: =======点击搜索=======
+2021-04-30 10:36:20,680 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:283] - INFO: =======输入搜索内容=======
+2021-04-30 10:36:24,414 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:285] - INFO: =======点击搜索=======
+2021-04-30 10:36:28,305 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 10:36:28,305 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索查看更多1用户 snapshot=====
+2021-04-30 10:36:28,508 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:292] - INFO: =======点击综合=======
+2021-04-30 10:36:32,218 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 10:36:32,218 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索查看更多2视频 snapshot=====
+2021-04-30 10:37:42,203 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:35] - INFO: ========star app=========
+2021-04-30 10:37:53,845 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:43] - ERROR: Message: 
+
+2021-04-30 10:37:56,485 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:49] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 10:38:02,938 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:56] - ERROR: Message: 
+
+2021-04-30 10:38:09,754 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:64] - ERROR: Message: 
+
+2021-04-30 10:38:09,759 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:278] - INFO: =======点击搜索=======
+2021-04-30 10:38:24,301 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:282] - INFO: =======输入搜索内容=======
+2021-04-30 10:38:28,002 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:284] - INFO: =======点击搜索=======
+2021-04-30 10:38:30,503 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 10:38:30,504 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索查看更多1用户 snapshot=====
+2021-04-30 10:38:30,665 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:291] - INFO: =======点击综合=======
+2021-04-30 10:38:32,800 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:13] - DEBUG: =========截图操作=========
+2021-04-30 10:38:32,801 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_search.py[line:15] - DEBUG: ======get 搜索查看更多2视频 snapshot=====
+2021-04-30 11:03:48,831 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:27] - INFO: ========star app=========
+2021-04-30 11:04:02,926 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:35] - ERROR: Message: 
+
+2021-04-30 11:04:05,533 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:41] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 11:04:18,561 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:48] - ERROR: Message: 
+
+2021-04-30 11:05:00,745 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:56] - ERROR: Message: 
+
+2021-04-30 11:05:17,106 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:67] - INFO: =======点击微信icon=======
+2021-04-30 11:05:48,297 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:76] - ERROR: Message: 
+
+2021-04-30 11:06:32,923 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:86] - ERROR: Message: 
+
+2021-04-30 11:06:32,925 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:87] - DEBUG: ========仅限已获取=======
+2021-04-30 11:06:39,164 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:7] - DEBUG: =========截图操作=========
+2021-04-30 11:06:39,164 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_my.py[line:9] - DEBUG: ======get 编辑资料修改头像 snapshot=====
+2021-04-30 11:48:12,171 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:24] - INFO: ========star app=========
+2021-04-30 11:48:27,314 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:32] - ERROR: Message: 
+
+2021-04-30 11:48:30,022 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:38] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 11:48:40,025 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:45] - ERROR: Message: 
+
+2021-04-30 11:49:23,381 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:52] - ERROR: Message: 
+
+2021-04-30 11:49:40,535 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:71] - INFO: =======点击微信icon=======
+2021-04-30 11:50:11,155 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:80] - ERROR: Message: 
+
+2021-04-30 11:50:11,156 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:84] - INFO: =======点击设置=======
+2021-04-30 11:50:12,071 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:87] - INFO: =======点击青少年=======
+2021-04-30 11:50:13,463 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:89] - INFO: =======点击立即开启=======
+2021-04-30 11:50:14,468 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:14,468 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 青少年模式 snapshot=====
+2021-04-30 11:50:15,337 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:93] - INFO: =======点击返回=======
+2021-04-30 11:50:17,387 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:101] - INFO: =======点击账号管理=======
+2021-04-30 11:50:19,899 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:19,900 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 账号管理 snapshot=====
+2021-04-30 11:50:20,019 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:105] - INFO: =======点击返回=======
+2021-04-30 11:50:20,766 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:112] - INFO: =======点击黑名单=======
+2021-04-30 11:50:22,734 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:22,734 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 黑名单 snapshot=====
+2021-04-30 11:50:22,957 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:119] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 11:50:23,328 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:123] - ERROR: Message: An element could not be located on the page using the given search parameters.
+
+2021-04-30 11:50:24,031 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:143] - INFO: =======点击我的钱包=======
+2021-04-30 11:50:26,020 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:26,021 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 我的钱包 snapshot=====
+2021-04-30 11:50:26,180 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:147] - INFO: =======点击账单=======
+2021-04-30 11:50:26,810 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:149] - INFO: =======点击返回=======
+2021-04-30 11:50:27,607 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:151] - INFO: =======点击常见问题=======
+2021-04-30 11:50:28,461 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:153] - INFO: =======点击返回=======
+2021-04-30 11:50:29,294 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:155] - INFO: =======点击立即提现=======
+2021-04-30 11:50:30,118 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:157] - INFO: =======点击返回=======
+2021-04-30 11:50:31,770 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:165] - INFO: =======点击检查更新=======
+2021-04-30 11:50:33,690 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:33,691 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 检查更新 snapshot=====
+2021-04-30 11:50:33,836 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:174] - INFO: =======点击隐私协议=======
+2021-04-30 11:50:35,267 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:35,267 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 隐私协议 snapshot=====
+2021-04-30 11:50:35,376 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:177] - INFO: =======点击返回=======
+2021-04-30 11:50:37,012 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:185] - INFO: =======点击秒拍app声明=======
+2021-04-30 11:50:39,436 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:39,436 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 秒拍app声明 snapshot=====
+2021-04-30 11:50:39,551 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:190] - INFO: =======点击返回=======
+2021-04-30 11:50:40,004 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:197] - INFO: =======意见反馈=======
+2021-04-30 11:50:41,781 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:41,782 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 意见反馈 snapshot=====
+2021-04-30 11:50:41,902 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:201] - INFO: =======点击返回=======
+2021-04-30 11:50:42,511 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:208] - INFO: =======清除缓存=======
+2021-04-30 11:50:43,460 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:210] - INFO: =======点击确定=======
+2021-04-30 11:50:46,073 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:46,073 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 清除缓存 snapshot=====
+2021-04-30 11:50:46,205 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:219] - INFO: =======点击高级调置=======
+2021-04-30 11:50:47,129 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:222] - INFO: =======点击注销账号=======
+2021-04-30 11:50:48,960 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:48,961 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 高级设置 snapshot=====
+2021-04-30 11:50:49,080 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:226] - INFO: =======点击返回=======
+2021-04-30 11:50:50,423 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:234] - INFO: =======点击退出登录=======
+2021-04-30 11:50:51,357 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:236] - INFO: =======点击确定=======
+2021-04-30 11:50:53,315 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:59] - DEBUG: =========截图操作=========
+2021-04-30 11:50:53,316 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_setting.py[line:61] - DEBUG: ======get 退出登录 snapshot=====

@@ -1,0 +1,7 @@
+2021-04-26 16:57:24,875 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:134] - INFO: =======点击微信icon=======
+2021-04-26 16:58:01,443 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:168] - ERROR: Message: 
+
+2021-04-26 16:58:02,456 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:12] - DEBUG: =========截图操作=========
+2021-04-26 16:58:02,456 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:14] - DEBUG: ======get 微信登录 snapshot=====
+2021-04-26 16:58:13,976 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:524] - INFO: ========杀掉app进程=======
+2021-04-26 16:58:17,016 - /Users/yixia/PycharmProjects/iosmiaopai/testCase/IMP_login.py[line:527] - INFO: ========启动app=======
